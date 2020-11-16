@@ -11,3 +11,5 @@ Sphinx uses Latex to export the documentation as a PDF file.  To build pdf:
 make latexpdf
 
 It will generate a PDF file in ./build/latex/<sphinx-project-name>.pdf
+
+minor change to trigger build on Read the Docs
